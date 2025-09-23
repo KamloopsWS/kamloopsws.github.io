@@ -8,6 +8,8 @@ order: 4
 
 - [High Octane Comics & Collectibles](https://www.facebook.com/HighOctaneComics/){:target="_blank"}
   - Our friendly local game store and our primary recomendation for members interested in finding and purchasing BattleTech aswell as other products.
+- [Desert City Games](https://www.desertcitygamestcg.ca/){:target="_blank"}
+  - A friendly local game store located on the north shore of Kamloops and now stocking BattleTech aswell as other products.
 - [Tistaminis](https://tistaminis.com/){:target="_blank"}
   - Possibly the most well stocked and trusted hobby store in Canada... the primary club recommendation for online purchases!
 
