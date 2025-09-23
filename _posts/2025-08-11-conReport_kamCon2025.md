@@ -81,3 +81,23 @@ More info found on the history and general concepts of this game format can be f
 ##### DESCRIPTION
 Carry story forward in the game lore from the event used at **KamCon 2024 (Battle of Turtle Bay Operation Prison Break)** that the players won.
 Players will control mechs and combat vehicles against a numerically large clan force controlled by a **KWS/KBL** game master.
+
+### -- **After Action Photos** --
+
+**KBL Championship & Solaris 2025 Photos:**
+{% include image-gallery-no-label.html folder="/uploads/gallery3/tourney1" %}
+
+**KBL Grinder 2025 Photos:**
+{% include image-gallery-no-label.html folder="/uploads/gallery3/grinder1" %}
+
+**KBL CO-OP Story Event – Battle of Wolcott Game Photos:**
+{% include image-gallery-no-label.html folder="/uploads/gallery3/story1" %}
+
+### -- **Special Thanks** --
+I want to give a massive shout out to all our sponsers and people that made this years event happen!
+
+- The KamCon crew and the host venvue Thompson Rivers University.
+- Our club members who were playing and volunteering.
+- **Ettin Games** from the USA
+- Canadian Companies: **Metal Core Collectables** and **GHiBattleTechnology**
+- Local Game Stores: **High Octane** and **Desert City Games**
