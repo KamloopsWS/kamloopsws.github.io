@@ -9,14 +9,15 @@ description: Find our house rules for "BattleTech Classic" here.
 ---
 
 **Note:** This is a living document and will be update frequently.\
-**Last Modified:** 2025-08-08
+**Last Modified:** 2026-08-27
 
 ### --- **Getting Started** ---
 
 #### Intro
 Please review the following documents found below that includes details on the MRC (MechCommander Review Circuit) format we play.
 - ~~[Season 4](https://docs.google.com/document/d/1x7KAXVcXVwd_twym-WzK0WYSgC-ZnPW6otz_qyn71GQ){:target="_blank"}~~
-- [Season 5](https://docs.google.com/document/d/1YJWsUDkg0I4CHg5-YGoTOiCJQqrxf1ZC73lt2D1TB_8){:target="_blank"} 
+- ~~[Season 5](https://docs.google.com/document/d/1YJWsUDkg0I4CHg5-YGoTOiCJQqrxf1ZC73lt2D1TB_8){:target="_blank"}~~
+- [Season 6](https://drive.google.com/file/d/1Dx0WZoRB5ouqBLGwwWi0qXg-U0rXlmWp){:target="_blank"} 
 
 The mission statement of any of our current/future house rules is to add extra flavor to MRC but never to change/remove any rules that are required by the MRC format.
 
