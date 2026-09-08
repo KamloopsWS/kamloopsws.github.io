@@ -18,11 +18,9 @@ We encourage players of all skill levels to join up and try as many of the follo
 - **Equipment:** Maps **will** be provided... it is encouraged to bring your own miniatures... but we **can** provide miniatures and play aids to those that require them.
 
 ##### FORMAT
-Round robin playing for points (aka wins, draws and losses), and will be scheduled dynamically throughout each day and across the convention days to ensure each player can play against the maximum amount of other players. 
+Please check the tournament players package document found below.
 
 Please validate your list with a game master before play while at the event or validate your list earlier by emailing us [here](mailto:kamloopswargamingsociety@gmail.com).
-
-*(If an extreme amount of players signup we will use the double elimination format with a prior group stage before the double elimination section)*
 
 ##### DESCRIPTION
 - **Era of Play:** IlClan Era
@@ -32,10 +30,7 @@ Please validate your list with a game master before play while at the event or v
 - **Pilot Skills:** Must be kept within two of each other, No unit can have a skill higher than a 6 or lower than a 2
 - **Number of Mapsheets:** Will be provided 2 paper maps or 1 neoprene per match.
 - **Rules:** 
-	- Only alternate ammo types specified in the BattleMech Manual are allowed. 
-		- Players may change their alternate ammo selection between games. 
-		- The ammo in use must be declared to both players before the game begins.
-	- Must follow gameplay and force construction rules of Kamloops BattleTech which are based on MRC found [here](/posts/houseRules_btClassic){:target="_blank"}... any changes that are unique to this event page override any rules. Any house rules we have only in addition to MRC and never remove/change MRC rules.
+	-Must follow all the requirements found within the tournament player package found [here](https://drive.google.com/file/d/1GHTCK4Zy-QWm7cBHOeoRrI1BvQjPbRMF/view?usp=sharing){:target="_blank"}.
 
 ### --- **KBL Grinder 2026** ---
 
